@@ -1,4 +1,4 @@
-# GIF Generator 
+# GIF Builder
 This project is a simple yet powerful code to create GIFs from a sequence of images or frames. It is designed to automate the GIF creation process with flexibility and ease of use.
 
 ##  Features
